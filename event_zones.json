@@ -1,0 +1,48 @@
+{
+    "zones": [
+        {
+            "id": 1726591073601,
+            "name": "Zone-3",
+            "type": "Event",
+            "has_point_count": false,
+            "min_height": 1.93300357439203,
+            "max_height": 3.98932369862549,
+            "metadata": {
+                "include_classifications": [
+                    "PROSPECT",
+                    "UNKNOWN",
+                    "PERSON",
+                    "VEHICLE",
+                    "BICYCLE",
+                    "LARGE_VEHICLE"
+                ],
+                "object_filters": [
+                    {
+                        "classification": "",
+                        "max_height": 2.5,
+                        "min_height": -0.200000002980232
+                    }
+                ]
+            },
+            "vertices": [
+                {
+                    "x": -17.73,
+                    "y": 34.72
+                },
+                {
+                    "x": -18.15,
+                    "y": 24.1
+                },
+                {
+                    "x": -2.43,
+                    "y": 24.42
+                },
+                {
+                    "x": -2.68,
+                    "y": 35.36
+                }
+            ],
+            "geo_vertices": []
+        }
+    ]
+}

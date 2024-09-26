@@ -1,0 +1,49 @@
+{
+    "aggregation_realtime": [
+        {
+            "id": 0,
+            "name": "Edge-*1U5BBS8R5X2DKJ2",
+            "timestamp": 1726323050390869,
+            "current_point_count": -1,
+            "classification_metrics": [
+                {
+                    "description": "ALL",
+                    "active_occupants": 2465,
+                    "total_visitors": 72948110,
+                    "total_visits": 72948110,
+                    "last_update": 1726323050390869
+                },
+                {
+                    "description": "PERSON",
+                    "active_occupants": 2465,
+                    "total_visitors": 72944970,
+                    "total_visits": 72944970,
+                    "last_update": 1726323050390869
+                }
+            ]
+        },
+        {
+            "id": 1726591073601,
+            "name": "Zone-3",
+            "timestamp": 1726323050390869,
+            "current_point_count": -1,
+            "classification_metrics": [
+                {
+                    "description": "ALL",
+                    "active_occupants": 422,
+                    "total_visitors": 17997,
+                    "total_visits": 18397,
+                    "last_update": 1726323050390869
+                },
+                {
+                    "description": "PERSON",
+                    "active_occupants": 422,
+                    "total_visitors": 17997,
+                    "total_visits": 18397,
+                    "last_update": 1726323050390869
+                }
+            ]
+        }
+    ],
+    "timestamp": 1726591601368678
+}

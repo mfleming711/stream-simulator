@@ -1,0 +1,101 @@
+{
+    "aggregation_timeseries": [
+        {
+            "id": 0,
+            "name": "Edge-*1U5BBS8R5X2DKJ2",
+            "timestamp": 1726595700000000.0,
+            "current_point_count": -1,
+            "current_max_point_count": -1,
+            "current_avg_point_count": 0,
+            "overall_max_point_count": -1,
+            "overall_avg_point_count": 0,
+            "classification_metrics": [
+                {
+                    "description": "ALL",
+                    "active_occupants": 2054,
+                    "max_active_occupants": 2054,
+                    "avg_active_occupants": 2054,
+                    "total_visitors": 73061554,
+                    "total_visits": 73061554,
+                    "new_visitors": 2092,
+                    "new_visits": 2092,
+                    "departed_visitors": 38,
+                    "current_max_speed": 7.84,
+                    "current_avg_speed": 0.409,
+                    "overall_max_speed": 10.199509792141974,
+                    "overall_avg_speed": 0.285,
+                    "current_avg_dwell": 1.478,
+                    "overall_avg_dwell": 7.28,
+                    "last_update": 1726322959889639
+                },
+                {
+                    "description": "PERSON",
+                    "active_occupants": 2054,
+                    "max_active_occupants": 2054,
+                    "avg_active_occupants": 2054,
+                    "total_visitors": 73058414,
+                    "total_visits": 73058414,
+                    "new_visitors": 2092,
+                    "new_visits": 2092,
+                    "departed_visitors": 38,
+                    "current_max_speed": 7.84,
+                    "current_avg_speed": 0.409,
+                    "overall_max_speed": 10.199509792141974,
+                    "overall_avg_speed": 0.285,
+                    "current_avg_dwell": 1.478,
+                    "overall_avg_dwell": 7.28,
+                    "last_update": 1726322959889639
+                }
+            ]
+        },
+        {
+            "id": 1726591073601,
+            "name": "Zone-3",
+            "timestamp": 1726595700000000.0,
+            "current_point_count": -1,
+            "current_max_point_count": -1,
+            "current_avg_point_count": 0,
+            "overall_max_point_count": -1,
+            "overall_avg_point_count": 0,
+            "classification_metrics": [
+                {
+                    "description": "ALL",
+                    "active_occupants": 329,
+                    "max_active_occupants": 329,
+                    "avg_active_occupants": 329,
+                    "total_visitors": 35850,
+                    "total_visits": 36813,
+                    "new_visitors": 337,
+                    "new_visits": 343,
+                    "departed_visitors": 14,
+                    "current_max_speed": 7.409,
+                    "current_avg_speed": 0.328,
+                    "overall_max_speed": 7.408778576796583,
+                    "overall_avg_speed": 0.222,
+                    "current_avg_dwell": 0.531,
+                    "overall_avg_dwell": 8.69,
+                    "last_update": 1726322959889639
+                },
+                {
+                    "description": "PERSON",
+                    "active_occupants": 329,
+                    "max_active_occupants": 329,
+                    "avg_active_occupants": 329,
+                    "total_visitors": 35850,
+                    "total_visits": 36813,
+                    "new_visitors": 337,
+                    "new_visits": 343,
+                    "departed_visitors": 14,
+                    "current_max_speed": 7.409,
+                    "current_avg_speed": 0.328,
+                    "overall_max_speed": 7.408778576796583,
+                    "overall_avg_speed": 0.222,
+                    "current_avg_dwell": 0.531,
+                    "overall_avg_dwell": 8.69,
+                    "last_update": 1726322959889639
+                }
+            ]
+        }
+    ],
+    "timestamp": 1726595743346819
+}
